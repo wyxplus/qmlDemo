@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/check.png</file>
+        <file>assets/home.png</file>
+        <file>assets/settings.png</file>
+        <file>assets/sun.png</file>
+        <file>ExpandableBottomBar/NavigationBar.qml</file>
+        <file>ExpandableBottomBar/NavigationBarButton.qml</file>
+        <file>ExpandableBottomBar/qmldir</file>
+    </qresource>
+</RCC>
