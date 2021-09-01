@@ -2,4 +2,4 @@
 
 ### toolbar demo
 
-![toolbar](https://github.com/wyxplus/qmlDemo/toolbarDemo/toolbar.gif)
+![toolbar](https://github.com/wyxplus/qmlDemo/blob/main/toolbarDemo/toolbar.gif)
